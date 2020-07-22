@@ -5,7 +5,7 @@ It's a complete working Node Js project.
 # Disclaimer: This is only for learning purpose. 
 
 
-**Created using Node Js Modeule.**
+**Created using Node Js Module.**
 
 #Dependencies:
 - `Slugify`
