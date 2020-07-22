@@ -1,4 +1,4 @@
-# simple-shopping-website
+# Simple-Shopping-Cart
 
 It's a complete working Node Js project.
 
