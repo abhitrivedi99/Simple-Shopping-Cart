@@ -10,7 +10,7 @@
   "author": "Abhishek Trivedi",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.4",
     "slugify": "^1.4.0"
   }
